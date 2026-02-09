@@ -5,6 +5,11 @@ Review the results of a compliance report pertaining to a NIST compliance
 framework. Then, identify infective security controls that are creating compliance gaps
 and outline solutions to remediate the compliance report findings.
 
+## Security Concepts:
+Compliance assessment, Root cause analysis, Remediation planninge
+
+## Tools Used:
+NIST Cybersecurity Framework (CSF)
 
 ![alt](https://github.com/ElyUTech/Project-16-Review-a-Compliance-Report-NIST-/blob/main/Project%2016_%20Review%20a%20Compliance%20Report%20(NIST)-1.png)
 ## Part 1:
